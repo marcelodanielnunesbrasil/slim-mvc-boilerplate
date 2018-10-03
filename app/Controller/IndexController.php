@@ -8,7 +8,7 @@ class IndexController
      * Dependency container provided by Slim
      * @var \Slim\Container
      */
-    protected $container;
+    protected $container; // Container do pull
 
     /**
      * Save dependency container
